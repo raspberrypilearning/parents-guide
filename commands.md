@@ -8,6 +8,6 @@
   mv            move               `mv test.txt ~/Documents/TEST.txt`   move the `test.txt` file to `Documents` and change its name
   cp            copy               `cp test.txt test.bak`               copy the `test.txt` file and name it `test.bak`
   rm            remove             `rm test.txt`                        delete the `test.txt` file permenantly
-  rm -r         recursive remove   `rm -r Documents`                    delete the `Documents` directory and all it’s contents permenantly
+  rm -r         recursive remove   `rm -r Documents`                    delete the `Documents` directory and all it's contents permenantly
   nano          nano               `nano test.txt`                      Open or create the file `test.txt` for editing in nano
   hostname -I   hostname           `hostname -I`                        Display the IP address of the Raspberry Pi
