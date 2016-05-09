@@ -28,6 +28,7 @@ sudo apt-get upgrade -y
 
 ## Other useful commands
 - You can use the GUI for most things on the Raspberry Pi, but many online tutorials and guides will assume you're using a terminal, so it is best to become aquinted with a few terminal commands.
+
 | Command     | Name             | Example                            | Description                                                        |
 |-------------|------------------|------------------------------------|--------------------------------------------------------------------|
 | ls          | list             | `ls`                               | list the files in the current directory                            |
