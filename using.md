@@ -23,11 +23,11 @@ sudo apt-get update
 sudo apt-get upgrade -y
 ```
 
-### A note of `sudo`
-- `sudo` is short for **super user do**. It is basically running a command as an administrator. Many commands need adminstrator permission to run, so need to be typed using `sudo`.
+### A note on `sudo`
+- `sudo` is short for **super user do**. It is basically running a command as an administrator. Many commands need administrator permission to run, so need to be typed using `sudo`.
 
 ## Other useful commands
-- You can use the GUI for most things on the Raspberry Pi, but many online tutorials and guides will assume you're using a terminal, so it is best to become aquinted with a few terminal commands.
+- You can use the GUI for most things on the Raspberry Pi, but many online tutorials and guides will assume you're using a terminal, so it is best to become acquainted with a few terminal commands.
 
 | Command     | Name             | Example                            | Description                                                        |
 |-------------|------------------|------------------------------------|--------------------------------------------------------------------|
@@ -38,7 +38,38 @@ sudo apt-get upgrade -y
 | touch       | touch            | `touch test.txt`                   | create a file called `test.txt`                                    |
 | mv          | move             | `mv test.txt ~/Documents/TEST.txt` | move the `test.txt` file to `Documents` and change its name        |
 | cp          | copy             | `cp test.txt test.bak`             | copy the `test.txt` file and name it `test.bak`                    |
-| rm          | remove           | `rm test.txt`                      | delete the `test.txt` file permenantly                             |
-| rm -r       | recursive remove | `rm -r Documents`                  | delete the `Documents` directory and all it's contents permenantly |
+| rm          | remove           | `rm test.txt`                      | delete the `test.txt` file permanently                             |
+| rm -r       | recursive remove | `rm -r Documents`                  | delete the `Documents` directory and all it's contents permanently |
 | nano        | nano             | `nano test.txt`                    | Open or create the file `test.txt` for editing in nano             |
 | hostname -I | hostname         | `hostname -I`                      | Display the IP address of the Raspberry Pi                         |
+
+### A note on tilde
+- The tilde symbol `~` is used to represent the `home` folder. This is normally `/home/pi`. So when you type `ls ~/` this is the same as typing `ls /home/pi`
+
+## Installing new software
+
+At some point you'll most probably want to install some new software onto your Raspberry Pi. Again, it is easiest to use the terminal to do this.
+
+- You can search for software that is available to install, but you need to update the software list first.
+
+``` bash
+sudo apt-get update
+```
+
+- Then you can start a search. For instance if you wanted to install the game Tetris, you can search for software with *tetris* in the name.
+
+``` bash
+sudo apt-cache search tetris
+```
+
+- You can then choose the program you want from the list. In this case you could install `tint`
+
+``` bash
+sudo apt-get install tint
+```
+
+- Some software will then appear in the **Menu**. Other need to be launched from the terminal.
+
+``` bash
+tint
+```
