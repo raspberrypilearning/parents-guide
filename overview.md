@@ -1,5 +1,6 @@
-So you've got some Raspberry Pis for your classroom, let's explore the options for getting your students starting their Raspberry Pi adventure.
+This guide will provide you with simple and easy to follow instructions on getting started with the Raspberry Pi, for parents whose children are eagre to dive into the world of Physical Computing
 
-- [Physical setup options](physical-setup.md)
-- [Remote setup options](remote.md)
-- [Updating and handling users](user-management.md)
+- [Simple Setup](setup.md)
+- [Using a Raspberry Pi](using.md)
+- [Basic Physical Computing](physical.md)
+- [Resources](resources.md)
