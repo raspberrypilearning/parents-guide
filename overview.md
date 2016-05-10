@@ -2,5 +2,5 @@ This guide will provide you with simple and easy to follow instructions on getti
 
 - [Simple Setup](setup.md)
 - [Using a Raspberry Pi](using.md)
-- [Basic Physical Computing](physical.md)
-- [Resources](resources.md)
+- [What is Physical Computing](physical.md)
+- [Resources to learn more](resources.md)

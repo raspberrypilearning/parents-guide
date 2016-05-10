@@ -1,7 +1,7 @@
 # Resources for you children
 
 ## Raspberry Pi Resources
-There are lots of resources online for learning to program and use a Raspberry Pi. But probably the best place to start is on the [Raspberry Pi Foundation's website](https://www.raspberrypi.org/resources/).
+There are lots of resources online for learning to program and use a Raspberry Pi. But probably the best place to start is on the [Raspberry Pi Foundation's website](https://www.raspberrypi.org/learning/).
 
 There are lots of different resources, for all ability levels, but the links below might give you some ideas of where to start.
 
