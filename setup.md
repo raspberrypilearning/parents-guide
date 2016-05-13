@@ -12,11 +12,11 @@ So you've bought a Raspberry Pi for your child, but you have no idea about Singl
 ## Getting an Operating System
 - The Operating System (OS) is crucial to the Raspberry Pi. Without a microSD card with an OS installed, the Raspberry Pi won't work. **Raspbian** is the name of the Operating System that is recommended for the Raspberry Pi.
 - There are several ways of getting a microSD card with an OS on it. Full instructions are provided in the [software setup guide](https://www.raspberrypi.org/learning/help-software-guide).
-- Buying a preinstalled SD card is, without a doubt, the easiest way. You can buy them from [here](http://uk.rs-online.com/web/c/computing-peripherals/data-storage-memory/secure-digital-cards/?searchTerm=noobs]
-- However, it is always best to learn how to write your own SD cards. As your child learns more and more about the Raspberry Pi, and experiments with different projects, they will undoubtedly want several SD cards for different projects. They'll probably make some mistakes as well, and occasionally corrupt their cards, so it's useful to know how to reinstall Raspbian on an old card.
+- Buying a pre-installed SD card is, without a doubt, the easiest way. You can buy them from [here](http://uk.rs-online.com/web/c/computing-peripherals/data-storage-memory/secure-digital-cards/?searchTerm=noobs].
+- However, it is always best to learn how to write your own SD cards. As your child learns more about the Raspberry Pi, and experiments with different projects, they will undoubtedly want several SD cards for different projects. They'll probably make some mistakes as well, and occasionally corrupt their cards, so it's useful to know how to reinstall Raspbian on an old card.
 
 ## Plugging it all in
-- You can follow the more detailed [hardware setup guide](https://www.raspberrypi.org/learning/help-hardware-guide) if you want, or have a look at the diagram below for how to setup the Pi. Simply put, plug in the USB keyboard and mouse into the USB ports, the monitor or TV into the HDMI port, and the microSD card into the microSD card slot.
+- You can follow the more detailed [hardware setup guide](https://www.raspberrypi.org/learning/help-hardware-guide) if you want, or have a look at the diagram below for how to set up the Pi. Simply put, plug in the USB keyboard and mouse into the USB ports, the monitor or TV into the HDMI port, and the microSD card into the microSD card slot.
 ![](images/plug-in.gif)
-- The Raspberry Pi, unlike most computers, doesn't have an on/off button. You start it by pluggin in the power supply.
-- If all goes well, the green LED on the Raspberry Pi should blink, and within a few seconds Raspbian should load.
+- The Raspberry Pi, unlike most computers, doesn't have an on/off button. You start it by plugging in the power supply.
+- If all goes well, the green LED on the Raspberry Pi should blink and, within a few seconds, Raspbian should load.
