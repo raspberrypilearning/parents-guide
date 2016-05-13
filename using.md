@@ -4,7 +4,7 @@ This guide is not intended to be a full description of how to use a Raspberry Pi
 
 ## Using the terminal
 
-When you've used computers in the past with Operating Systems like Windows or OS X, you'll have used a Graphical User Interface (GUI) to control the computer. With a GUI you use the mouse pointer to click on menus and icons. While Raspbian has a GUI, to properly use the Raspberry Pi, you'll need to learn to use the **terminal**
+When you've used computers in the past with Operating Systems like Windows or OS X, you'll have used a Graphical User Interface (GUI) to control the computer. With a GUI you use the mouse pointer to click on menus and icons. While Raspbian has a GUI, to properly use the Raspberry Pi, you'll need to learn to use the **terminal**.
 
 - Open the terminal by going to *Menu* > *Accessories* > *Terminal*, or by clicking on the terminal icon in the tool bar on the desktop.
 
@@ -25,7 +25,7 @@ sudo apt-get upgrade -y
 ```
 
 ### A note on `sudo`
-- `sudo` is short for **super user do**. It is basically running a command as an administrator. Many commands need administrator permission to run, so need to be typed using `sudo`.
+- `sudo` is short for **super user do**. It's basically running a command as an administrator. Many commands need administrator permission to run, so need to be typed using `sudo`.
 
 ## Other useful commands
 - You can use the GUI for most things on the Raspberry Pi, but many online tutorials and guides will assume you're using a terminal, so it is best to become acquainted with a few terminal commands.
@@ -45,13 +45,13 @@ sudo apt-get upgrade -y
 | hostname -I | hostname         | `hostname -I`                      | Display the IP address of the Raspberry Pi                         |
 
 ### A note on tilde
-- The tilde symbol `~` is used to represent the `home` folder. This is normally `/home/pi`. So when you type `ls ~/` this is the same as typing `ls /home/pi`
+- The tilde symbol `~` is used to represent the `home` folder. This is normally `/home/pi`. So when you type `ls ~/`, this is the same as typing `ls /home/pi`.
 
 ## Installing new software
 
 At some point you'll most probably want to install some new software onto your Raspberry Pi. Again, it is easiest to use the terminal to do this.
 
-- You can search for software that is available to install, but you need to update the software list first.
+- You can search for software that is available to install, but you need to update the software list first
 
 ``` bash
 sudo apt-get update
@@ -69,7 +69,7 @@ sudo apt-cache search tetris
 sudo apt-get install tint
 ```
 
-- Some software will then appear in the **Menu**. Other need to be launched from the terminal.
+- Some types of software will then appear in the **Menu**. Other types need to be launched from the terminal
 
 ``` bash
 tint
