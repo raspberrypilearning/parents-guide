@@ -21,10 +21,10 @@ There are lots of different resources, for all ability levels, but the links bel
 1. [SenseHat Pong](https://www.raspberrypi.org/learning/sense-hat-pong/)
 
 ## Code Club Resources
-You can have a look at the Code Club resources [here](https://www.codeclubprojects.org/en-GB/). If you want full access to all of the Resources that are produced by Code Club, then you'll need to start a club in a local school. That way you'll be able to share your child's love of Physical Computing with their peers. Sign up to start a Code Club [here](https://www.codeclub.org.uk/start-a-club/volunteers)
+You can have a look at the Code Club resources [here](https://www.codeclubprojects.org/en-GB/). If you want full access to all of the Resources that are produced by Code Club, then you'll need to start a club in a local school. That way you'll be able to share your child's love of Physical Computing with their peers. Sign up to start a Code Club [here](https://www.codeclub.org.uk/start-a-club/volunteers).
 
 ## Other resources.
-1. [<Stuff about="code" />](http://www.stuffaboutcode.com/) is a great site with lots of Raspberry Pi resources and some excellent Minecraft tutorials.
+1. [Stuff About Code](http://www.stuffaboutcode.com/) is a great site with lots of Raspberry Pi resources and some excellent Minecraft tutorials.
 2. [blog.whaleygeek.co.uk](http://blog.whaleygeek.co.uk/) has lots of great information on using Raspberry Pis.
-3. [Adventures In Raspberry Pi](https://www.amazon.co.uk/dp/B00H473JN2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is a fantastic book, with step-by-step tutorials on using the Raspberry Pi
-4. [Adventures in Minecraft](https://www.amazon.co.uk/Adventures-Minecraft-David-Whale/dp/111894691X) is another great book, all about using Minecraft on the Raspberry Pi
+3. [Adventures In Raspberry Pi](https://www.amazon.co.uk/dp/B00H473JN2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is a fantastic book, with step-by-step tutorials on using the Raspberry Pi.
+4. [Adventures in Minecraft](https://www.amazon.co.uk/Adventures-Minecraft-David-Whale/dp/111894691X) is another great book, all about using Minecraft on the Raspberry Pi.
