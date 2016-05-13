@@ -23,7 +23,7 @@ These are all fairly cheap to purchase from [RS](http://uk.rs-online.com/web/) a
 
 ## Getting Started
 
-There are hundreds of online tutorials detailing how to get started with Physical Computing on the Raspberry Pi, but probably the best place to start is with the Foundations own resources. Depending on the age of your child, they might prefer to use Python or Scratch as a programming language. These two resources are a perfect place to get started.
+There are hundreds of online tutorials detailing how to get started with Physical Computing on the Raspberry Pi, but probably the best place to start is with the Foundation's own resources. Depending on the age of your child, they might prefer to use Python or Scratch as a programming language. These two resources are a perfect place to get started.
 1. [Physical Computing with Python](https://www.raspberrypi.org/learning/physical-computing-with-python/)
 2. [Physical Computing with Scratch](https://www.raspberrypi.org/learning/physical-computing-with-scratch/)
 

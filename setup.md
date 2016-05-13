@@ -1,11 +1,12 @@
 # Simple Raspberry Pi Setup
 
-So you've bought a Raspberry Pi for your child, but you have no idea about Single Board Computers, Linux or Electronics. This guide will give you some basic information and howto knowledge, to enable you to support your child in their adventures with Raspberry Pi.
+So you've bought a Raspberry Pi for your child, but you have no idea about Single Board Computers, Linux or Electronics. This guide will give you some basic information and how-to knowledge, to enable you to support your child in their adventures with Raspberry Pi.
 
 ## Raspberry Pi Peripherals
 - The Raspberry Pi is a computer, and just like any other computer it needs power, a monitor, a keyboard and a mouse.
 - You can buy these peripherals new if you like - any USB keyboard and mouse, a microUSB power supply (5V) and HDMI monitor will do. You can also repurpose old equipment, such as using a mobile phone charger as a power supply, and using your TV as a monitor.
-- Computers also need a hard drive. This is used to store all the software that makes the Raspberry Pi work (called and Operating System), as well as all the files that your child will create. The Raspberry Pi uses a microSD card as a hard drive.
+- Computers also need a hard drive. This is used to store all the software that makes the Raspberry Pi work (called an Operating System), as well as all the files that your child will create. The Raspberry Pi uses a microSD card as a hard drive.
+
 ![](images/all-the-things.png)
 
 ## Getting an Operating System

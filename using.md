@@ -7,6 +7,7 @@ This guide is not intended to be a full description of how to use a Raspberry Pi
 When you've used computers in the past with Operating Systems like Windows or OS X, you'll have used a Graphical User Interface (GUI) to control the computer. With a GUI you use the mouse pointer to click on menus and icons. While Raspbian has a GUI, to properly use the Raspberry Pi, you'll need to learn to use the **terminal**
 
 - Open the terminal by going to *Menu* > *Accessories* > *Terminal*, or by clicking on the terminal icon in the tool bar on the desktop.
+
 ![](images/screen1.png)
 
 
