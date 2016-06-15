@@ -1,34 +1,34 @@
 # Resources for your children
 
-## Raspberry Pi Resources
+## Raspberry Pi resources
 
-There are lots of resources online for learning to program and use a Raspberry Pi. But probably the best place to start is on the [Raspberry Pi Foundation's website](https://www.raspberrypi.org/resources/).
+There are lots of resources online for learning to program and use a Raspberry Pi, but probably the best place to start is on the [Raspberry Pi Foundation's website](https://www.raspberrypi.org/resources/).
 
-There are lots of different resources, for all ability levels, but the links below might give you some ideas of where to start.
+There are lots of different resources for all ability levels, but the links below might give you some ideas of where to start.
 
-### Beginner Resources
+### Beginner resources
 
-- [Getting Started with Scratch](https://www.raspberrypi.org/learning/getting-started-with-scratch/)
-- [Physical Computing with Scratch](https://www.raspberrypi.org/learning/physical-computing-with-scratch/)
-- [Santa Detector](https://www.raspberrypi.org/learning/santa-detector/)
+- [Getting started with Scratch](https://www.raspberrypi.org/learning/getting-started-with-scratch/)
+- [Physical computing with Scratch](https://www.raspberrypi.org/learning/physical-computing-with-scratch/)
+- [Santa detector](https://www.raspberrypi.org/learning/santa-detector/)
 
-### Intermediate Resources
+### Intermediate resources
 
-- [Getting Started with Minecraft Pi](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/)
-- [Getting Started with Sonic Pi](https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/)
-- [Physical Computing with Python](https://www.raspberrypi.org/learning/physical-computing-with-python/)
+- [Getting started with Minecraft Pi](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/)
+- [Getting started with Sonic Pi](https://www.raspberrypi.org/learning/getting-started-with-sonic-pi/)
+- [Physical computing with Python](https://www.raspberrypi.org/learning/physical-computing-with-python/)
 
-### Expert Resources
+### Expert resources
 
-- [Dress for the Weather](https://www.raspberrypi.org/learning/dress-for-the-weather/)
-- [Getting Started with Processing](https://www.raspberrypi.org/learning/introduction-to-processing/)
+- [Dress for the weather](https://www.raspberrypi.org/learning/dress-for-the-weather/)
+- [Getting started with Processing](https://www.raspberrypi.org/learning/introduction-to-processing/)
 - [Sense HAT Pong](https://www.raspberrypi.org/learning/sense-hat-pong/)
 
-## Code Club Resources
+## Code Club resources
 
-You can have a look at the Code Club resources [here](https://www.codeclubprojects.org/en-GB/). If you want full access to all of the Resources that are produced by Code Club, then you'll need to start a club in a local school. That way you'll be able to share your child's love of Physical Computing with their peers. Sign up to start a Code Club [here](https://www.codeclub.org.uk/start-a-club/volunteers).
+You can have a look at the Code Club resources [here](https://www.codeclubprojects.org/en-GB/). If you want full access to all of the resources that are produced by Code Club, then you'll need to start a club in a local school. That way, you'll be able to share your child's love of physical computing with their peers. Sign up to start a Code Club [here](https://www.codeclub.org.uk/start-a-club/volunteers).
 
-## Other resources.
+## Other resources
 
 - [Stuff About Code](http://www.stuffaboutcode.com/) is a great site with lots of Raspberry Pi resources and some excellent Minecraft tutorials.
 - [Whaleygeek](http://blog.whaleygeek.co.uk/) has lots of great information on using Raspberry Pis.
