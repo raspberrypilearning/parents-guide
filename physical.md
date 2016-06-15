@@ -12,12 +12,12 @@ The Raspberry Pi has two rows of pins called General-Purpose Input/Output pins, 
 
 To get started with Physical Computing, you'll need to buy a few things, such as electronic components. The following things are really useful.
 
-1. A breadboard
-2. Jumper leads
-3. LEDs
-4. Resistors
-5. Push-to-make switches
-6. Buzzers
+- A breadboard
+- Jumper leads
+- LEDs
+- Resistors
+- Push-to-make switches
+- Buzzers
 
 These are all fairly cheap to purchase from [RS](http://uk.rs-online.com/web/) and [eBay](http://www.ebay.co.uk/bhp/electronic-components), as well as many other online shops. You can also find much of what you need in the three [camjam kits](http://camjam.me/?page_id=618) available from The Pi Hut.
 
