@@ -10,7 +10,7 @@ The Raspberry Pi has two rows of pins called General-Purpose Input/Output pins, 
 
 ## What you will need
 
-To get started with Physical Computing, you'll need to buy a few things, such as electronic components. The following things are really useful.
+To get started with physical computing, you'll need to get hold of a few things, such as electronic components. The following are really useful:
 
 - A breadboard
 - Jumper leads
@@ -19,11 +19,11 @@ To get started with Physical Computing, you'll need to buy a few things, such as
 - Push-to-make switches
 - Buzzers
 
-These are all fairly cheap to purchase from [RS](http://uk.rs-online.com/web/) and [eBay](http://www.ebay.co.uk/bhp/electronic-components), as well as many other online shops. You can also find much of what you need in the three [camjam kits](http://camjam.me/?page_id=618) available from The Pi Hut.
+These are all fairly cheap to purchase from [RS](http://uk.rs-online.com/web/) and [eBay](http://www.ebay.co.uk/bhp/electronic-components), as well as many other online shops. You can also find much of what you are likely to need in the three [CamJam kits](http://camjam.me/?page_id=618) available from The Pi Hut.
 
 ## Getting Started
 
-There are hundreds of online tutorials detailing how to get started with Physical Computing on the Raspberry Pi, but probably the best place to start is with the Foundation's own resources. Depending on the age of your child, they might prefer to use Python or Scratch as a programming language. These two resources are a perfect place to get started.
+There are hundreds of online tutorials detailing how to get started with physical computing on the Raspberry Pi, but probably the best place to start is with the Foundation's own resources. Depending on the age of the child, they might prefer to use Python or Scratch as a programming language. These two resources are a perfect place to get started.
 1. [Physical Computing with Python](https://www.raspberrypi.org/learning/physical-computing-with-python/)
 2. [Physical Computing with Scratch](https://www.raspberrypi.org/learning/physical-computing-with-scratch/)
 
