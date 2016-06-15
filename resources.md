@@ -33,4 +33,4 @@ You can have a look at the Code Club resources [here](https://www.codeclubprojec
 - [Stuff About Code](http://www.stuffaboutcode.com/) is a great site with lots of Raspberry Pi resources and some excellent Minecraft tutorials.
 - [Whaleygeek](http://blog.whaleygeek.co.uk/) has lots of great information on using Raspberry Pis.
 - [Adventures In Raspberry Pi](https://www.amazon.co.uk/dp/B00H473JN2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) is a fantastic book, with step-by-step tutorials on using the Raspberry Pi.
-- [Adventures in Minecraft](https://www.amazon.co.uk/Adventures-Minecraft-David-Whale/dp/111894691X) is another great book, all about using Minecraft on the Raspberry Pi.
+- [Adventures in Minecraft](https://www.amazon.co.uk/Adventures-Minecraft-David-Whale/dp/111894691X) is another great book: it's all about using Minecraft on the Raspberry Pi.
