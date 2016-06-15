@@ -1,4 +1,4 @@
-- [Simple Setup](setup.md)
+- [Simple setup](setup.md)
 - [Using a Raspberry Pi](using.md)
-- [What is Physical Computing](physical.md)
+- [What is physical computing](physical.md)?
 - [Resources to learn more](resources.md)
