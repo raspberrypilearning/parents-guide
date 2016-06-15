@@ -44,32 +44,33 @@ sudo apt-get upgrade -y
 | nano        | nano             | `nano test.txt`                    | Open or create the file `test.txt` for editing in nano             |
 | hostname -I | hostname         | `hostname -I`                      | Display the IP address of the Raspberry Pi                         |
 
-### A note on tilde
+### A note on the tilde symbol
+
 - The tilde symbol `~` is used to represent the `home` folder. This is normally `/home/pi`. So when you type `ls ~/`, this is the same as typing `ls /home/pi`.
 
 ## Installing new software
 
 At some point you'll most probably want to install some new software onto your Raspberry Pi. Again, it is easiest to use the terminal to do this.
 
-- You can search for software that is available to install, but you need to update the software list first
+- You can search for software that is available to install, but you need to update the software list first.
 
 ``` bash
 sudo apt-get update
 ```
 
-- Then you can start a search. For instance if you wanted to install the game Tetris, you can search for software with *tetris* in the name.
+- You can then start a search. For instance if you wanted to install the game Tetris, you can search for software with "tetris" in the name.
 
 ``` bash
 sudo apt-cache search tetris
 ```
 
-- You can then choose the program you want from the list. In this case you could install `tint`
+- You can then choose the program you want from the list. In this case you could install `tint`.
 
 ``` bash
 sudo apt-get install tint
 ```
 
-- Some types of software will then appear in the **Menu**. Other types need to be launched from the terminal
+- Some types of software will then appear in the **Menu**. Other types need to be launched from the terminal.
 
 ``` bash
 tint
