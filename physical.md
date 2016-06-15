@@ -1,10 +1,10 @@
 # Physical Computing with the Raspberry Pi
 
-The Raspberry Pi is not just an exceptionally cheap computer. One of the main reasons the Raspberry Pi has become so popular is that it allows you to start exploring the world of Physical Computing.
+The Raspberry Pi is not just an exceptionally cheap computer. One of the main reasons the Raspberry Pi has become so popular is that it allows you to start exploring the world of physical computing.
 
 ## What is Physical Computing
 
-The Raspberry Pi has two rows of pins called **G**eneral **P**urpose **I**nput **O**utput pins. What is special about these pins is that you can control them using software. You can make some of the pins output around 3 volts, or have them detect when they are connected to around 3 volts. This may not sound very exciting until you realise that this simple command has a huge range of applications, from turning on LEDs and detecting button pushes, to creating remote controlled robots and home automation systems.
+The Raspberry Pi has two rows of pins called General-Purpose Input/Output pins, or **GPIO** pins. What is special about these pins is that you can control them using software. You can make some of the pins output around 3 volts, or have them detect when they are connected to around 3 volts. This may not sound very exciting until you realise that this simple command has a huge range of applications, from turning on LEDs and detecting button pushes, to creating remote controlled robots and home automation systems.
 
 ![](images/pinout.png)
 
