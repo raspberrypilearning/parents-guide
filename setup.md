@@ -12,7 +12,7 @@ So you've bought a Raspberry Pi for your child, but you have no idea about singl
 ## Getting an Operating System
 - The operating system (OS) is crucial to the Raspberry Pi. Without a micro SD card with an OS installed, the Raspberry Pi won't work. The OS that is recommended for the Raspberry Pi is **Raspbian**.
 - There are several ways of getting a micro SD card with an OS on it. Full instructions are provided in the [software setup guide](https://www.raspberrypi.org/learning/help-software-guide).
-- Buying a pre-installed SD card is, without a doubt, the easiest way. You can buy them from [here](http://uk.rs-online.com/web/c/computing-peripherals/data-storage-memory/secure-digital-cards/?searchTerm=noobs].
+- Buying a pre-installed SD card is, without a doubt, the easiest way. You can buy them from [here](http://uk.rs-online.com/web/c/computing-peripherals/data-storage-memory/secure-digital-cards/?searchTerm=noobs).
 - However, it is always a good idea to learn how to write your own SD cards. As your child learns more about the Raspberry Pi, and experiments with different projects, they will undoubtedly want more than one SD card. They'll probably make some mistakes as well, and occasionally corrupt their cards, so it's useful to know how to reinstall Raspbian on an old card.
 
 ## Plugging it all in
