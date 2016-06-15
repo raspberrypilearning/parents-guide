@@ -1,12 +1,12 @@
 # Using a Raspberry Pi
 
-This guide is not intended to be a full description of how to use a Raspberry Pi, but it will give you a few pointers on how to keep the software up-to-date and some of the things you can do with the computer.
+This guide is not intended to be a full description of how to use a Raspberry Pi, but it will give you a few pointers on how to keep the software up-to-date and on some of the things you can do with the computer.
 
 ## Using the terminal
 
-When you've used computers in the past with Operating Systems like Windows or OS X, you'll have used a Graphical User Interface (GUI) to control the computer. With a GUI you use the mouse pointer to click on menus and icons. While Raspbian has a GUI, to properly use the Raspberry Pi, you'll need to learn to use the **terminal**.
+When you've used computers in the past with operating systems like Windows or OS X, you'll have used a graphical user interface (GUI) to control the computer. With a GUI you use the mouse pointer to click on menus and icons. While Raspbian does have a GUI, you'll need to learn to use the **terminal** to properly in order to make full use of the Raspberry Pi.
 
-- Open the terminal by going to *Menu* > *Accessories* > *Terminal*, or by clicking on the terminal icon in the tool bar on the desktop.
+- Open the terminal by going to **Menu** > **Accessories** > **Terminal**, or by clicking on the terminal icon in the tool bar on the desktop.
 
 ![](images/screen1.png)
 
@@ -25,7 +25,7 @@ sudo apt-get upgrade -y
 ```
 
 ### A note on `sudo`
-- `sudo` is short for **super user do**. It's basically running a command as an administrator. Many commands need administrator permission to run, so need to be typed using `sudo`.
+- `sudo` is short for **superuser do**. It's basically running a command as an administrator. Many commands need administrator permission to run, so need to be typed using `sudo`.
 
 ## Other useful commands
 - You can use the GUI for most things on the Raspberry Pi, but many online tutorials and guides will assume you're using a terminal, so it is best to become acquainted with a few terminal commands.
