@@ -12,7 +12,7 @@ When you've used computers in the past with operating systems like Windows or OS
 
 
 ## Keeping up-to-date
-- The most important commands to learn is the command to update the software on the Raspberry Pi. To do this, you first need to update the list of software available.
+- One of the most important commands to learn is the one to update the software on the Raspberry Pi. To do this, you first need to update the list of software available.
 
 ``` bash
 sudo apt-get update
