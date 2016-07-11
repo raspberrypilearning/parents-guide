@@ -16,7 +16,7 @@ So you've bought a Raspberry Pi for your child, but you have no idea about singl
 
 - The operating system (OS) is crucial to the Raspberry Pi. Without a micro SD card with an OS installed, the Raspberry Pi won't work. The OS that's recommended for the Raspberry Pi is **Raspbian**.
 
-- There are several ways of getting a micro SD card with an OS on it. Full instructions are provided in the [software setup guide](https://www.raspberrypi.org/learning/help-software-guide).
+- There are several ways of getting a micro SD card with an OS on it. Full instructions are provided in the [software setup guide](https://www.raspberrypi.org/learning/software-guide).
 
 - Buying a pre-installed SD card is, without a doubt, the easiest way. You can buy them from [here](http://uk.rs-online.com/web/c/computing-peripherals/data-storage-memory/secure-digital-cards/?searchTerm=noobs).
 
@@ -24,7 +24,7 @@ So you've bought a Raspberry Pi for your child, but you have no idea about singl
 
 ## Plugging it all in
 
-- You can follow the more detailed [hardware setup guide](https://www.raspberrypi.org/learning/help-hardware-guide) if you want, or have a look at the diagram below for how to set up the Pi. Simply put, plug the USB keyboard and mouse into the USB ports, the monitor or TV into the HDMI port, and the micro SD card into the micro SD card slot.
+- You can follow the more detailed [hardware setup guide](https://www.raspberrypi.org/learning/hardware-guide) if you want, or have a look at the diagram below for how to set up the Pi. Simply put, plug the USB keyboard and mouse into the USB ports, the monitor or TV into the HDMI port, and the micro SD card into the micro SD card slot.
 
 ![](images/plug-in.gif)
 
