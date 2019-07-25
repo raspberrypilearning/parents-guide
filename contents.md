@@ -1,4 +1,4 @@
-- [Simple guide to Raspberry Pi](setup.md)
-- [Using a Raspberry Pi](using.md)
+- [Setting up your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up)
+- [Using your Raspberry Pi](https://projects.raspberrypi.org/en/projects/raspberry-pi-using)
 - [What is physical computing](physical.md)?
 - [Resources to learn more](resources.md)
